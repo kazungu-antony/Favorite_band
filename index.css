@@ -1,0 +1,73 @@
+*{
+    margin: 40px;
+    font-size: 20px;
+}
+
+.band-name{
+    font-size: 80px;
+    text-align: center;
+}
+
+.band-info{
+    background-color: antiquewhite;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.about-members{
+    background-color: rgb(238, 220, 196);
+    padding: 10px;
+    margin: 20px;
+}
+
+p, h1, h2{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+div{
+    align-items: center;
+}
+
+.biography{
+    float: right;
+    padding-right: 100px;
+    padding-top: 60px;
+}
+
+.banner-pic{
+    padding-left: 0;
+    text-align: center;
+    height: 320px;
+}
+
+.top-banner{
+    display: block;
+    text-align: center;
+}
+
+img{
+    background-color: rgb(238, 208, 186);
+    padding-left: 180px;
+    border: 10px solid rgb(255, 255, 255);
+}
+
+.round-radius-bottom{
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.round-radius-top{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.album-photo{
+    float: right;
+}
+
+
+
