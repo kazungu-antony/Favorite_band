@@ -51,7 +51,7 @@ div{
 
 img{
     background-color: rgb(238, 208, 186);
-    padding-left: 180px;
+    padding-left: 100px;
     border: 10px solid rgb(255, 255, 255);
 }
 
@@ -67,6 +67,21 @@ img{
 
 .album-photo{
     float: right;
+}
+
+li{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+    padding: 0;
+}
+
+a:hover{
+    color: coral;
+    font-size: 25px;
 }
 
 
