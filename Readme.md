@@ -4,11 +4,17 @@ A website page that displays information about my favourite music band.
 ### Prerequisites
 1. Git hub account
 2. Git installed in your machine
+```
+$ sudo apt-get install git-all
+```
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 1. Use this command to clone `$ git clone https://github.com/kazungu-antony/Favorite_band
-1. This will clone the repositoty into your local folder
+```
+$ git clone https://github.com/kazungu-antony/Favorite_band
+```
+ This will clone the repositoty into your local folder
 ### Usage
 * Just for entertainment and creating awareness of the band
 * Get to explore
