@@ -29,3 +29,11 @@ Antony Kazungu
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 *Copyright (c) 2021 (Antony Kazungu)*
+
+kazungu-antony/favourite-band
+My favourite Music band
+Website
+https://kazungu-antony.github.io/Favorite_band/
+Language
+HTML
+<https://github.com/kazungu-antony/Favorite_band> | kazungu-antony/Favourite Music Band | February 28th | Added by GitHub
