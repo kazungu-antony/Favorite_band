@@ -10,8 +10,8 @@ To access this project on your local files, you can clone it using these steps
 1. Use this command to clone `$ git clone https://github.com/kazungu-antony/Favorite_band
 1. This will clone the repositoty into your local folder
 ### Usage
-Just for entertainment and creating awareness of the band
-Get to explore
+* Just for entertainment and creating awareness of the band
+* Get to explore
 ### Technologies Used
 1. HTML
 2. CSS
@@ -22,4 +22,4 @@ View [live](https://kazungu-antony.github.io/Favorite_band/)
 Antony Kazungu
 ### Licence
 This project is under the  [MIT](LICENSE) licence
-Copyright (c) 2021 (Antony Kazungu)
+*Copyright (c) 2021 (Antony Kazungu)*
