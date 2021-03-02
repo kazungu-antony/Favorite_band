@@ -41,7 +41,8 @@ div{
 .banner-pic{
     padding-left: 0;
     text-align: center;
-    height: 370px;
+    height: 100%;
+    width: 93%
 }
 
 .top-banner{
