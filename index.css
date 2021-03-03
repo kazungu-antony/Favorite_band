@@ -54,8 +54,13 @@ span{
 .band-info{
     background-color: antiquewhite;
     padding: 30px;
-    border-radius: 10px;
+    border-radius: 140px0px;
     margin: 40px;
+}
+
+.band-intro{
+    padding: 10px;
+    margin: 10px;
 }
 
 .nav-bar a:hover{
