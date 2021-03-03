@@ -57,6 +57,17 @@ span{
     border-radius: 10px;
 }
 
+.nav-bar a:hover{
+    background-color: rgb(238, 220, 196);
+    padding: 10px;
+}
+
+.nav-bar a:active{
+    background-color: rgb(238, 220, 196);
+    padding: 10px;
+
+}
+
 /* end of navigation bar styling */
 
 .about-members{
