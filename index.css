@@ -55,6 +55,7 @@ span{
     background-color: antiquewhite;
     padding: 30px;
     border-radius: 10px;
+    margin: 40px;
 }
 
 .nav-bar a:hover{
