@@ -66,6 +66,8 @@ span{
 .nav-bar a:hover{
     background-color: rgb(238, 220, 196);
     padding: 10px;
+    border: 1px solid rgb(243, 215, 177);
+    border-radius: 5px;
 }
 
 .nav-bar a:active{
@@ -106,8 +108,6 @@ span{
     display: flex;
     flex-direction: row;
     background-color: rgb(238, 220, 196);
-    padding: 10px;
-    margin: 20px;
 }
 
 
