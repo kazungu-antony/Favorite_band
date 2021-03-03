@@ -1,6 +1,34 @@
 *{
-    margin: 40px;
     font-size: 20px;
+}
+
+body{
+    margin: 40px;
+}
+
+/* navigation bar */
+nav{
+    background-color: chartreuse;
+    padding-bottom: 5px;
+    border-bottom: 2px solid black;
+
+}
+
+header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.nav-bar{
+    text-align: right;
+}
+
+.nav-bar li{
+    display: inline;
+    margin: 10px;
+    margin-bottom: 20px;
 }
 
 .band-name{
@@ -79,7 +107,7 @@ a{
     padding: 0;
 }
 
-a:hover{
+ol a:hover{
     color: coral;
     font-size: 25px;
 }
