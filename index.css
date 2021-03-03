@@ -3,6 +3,31 @@
     font-size: 20px;
 }
 
+/* Navigation bar */
+
+nav{
+    background-color: aqua;
+    
+}
+
+.nav-title{
+    float: left;
+}
+
+.nav-items li{
+    display: inline;
+    float: right;
+}
+
+.nav-items{
+    justify-content: flex-end;
+}
+
+
+
+
+
+
 .band-name{
     font-size: 80px;
     text-align: center;
@@ -22,6 +47,7 @@
 
 p, h1, h2{
     text-align: center;
+    clear: both;
 }
 
 h1{
