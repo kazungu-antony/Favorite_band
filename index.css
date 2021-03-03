@@ -8,32 +8,47 @@ body{
 
 /* navigation bar */
 nav{
-    background-color: chartreuse;
     padding-bottom: 5px;
     border-bottom: 2px solid black;
 
 }
 
-header{
+.nav-title{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
     font-weight: 700;
-    font-size: 30px;
-    padding-top: 20px;
+    font-size: 60px;
+    margin: 0;
+    margin-left: 50px;
+}
+
+span{
+    color:darkgoldenrod;
+    font-size: 60px;
 }
 
 .nav-bar{
     text-align: right;
+    margin-right: 20px;
 }
 
+.nav-link{
+    padding: 20px;
+}
 .nav-bar li{
     display: inline;
-    margin: 10px;
     margin-bottom: 20px;
+    padding: 10px;
 }
 
 .band-name{
     font-size: 80px;
     text-align: center;
+    clear: both;
+}
+
+.nav-bar li:nth-child(n+2){
+    border-left: 2px solid black;
 }
 
 .band-info{
