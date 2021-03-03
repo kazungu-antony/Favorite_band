@@ -126,20 +126,18 @@ div{
 .banner-pic{
     padding-left: 0;
     text-align: center;
-    height: 370px;
+    width: 93%;
 }
 
 .top-banner{
-    display: block;
     text-align: center;
     margin: 40px;
 }
 
 img{
     background-color: rgb(238, 208, 186);
-    padding-left: 100px;
-    margin: 40px;
     border: 10px solid rgb(255, 255, 255);
+    margin: 40px;
 }
 
 .round-radius-bottom{
