@@ -148,5 +148,18 @@ ol a:hover{
     text-align: left;
 }
 
+ol{
+    margin: 40px;
+}
+
+ol li{
+    margin: 40px;
+}
+
+p{
+    margin: 40px;
+    padding: 50px;
+}
+
 
 
