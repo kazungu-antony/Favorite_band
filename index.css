@@ -71,11 +71,40 @@ span{
 
 /* end of navigation bar styling */
 
+/* About band */
+
+.band-bio{
+    background-color: antiquewhite;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.about-band{
+    background-color: rgb(238, 220, 196);
+    padding: 10px;
+    margin: 20px;
+}
+
+.about-band h2{
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
 .about-members{
     background-color: rgb(238, 220, 196);
     padding: 10px;
     margin: 20px;
 }
+
+.member-details{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(238, 220, 196);
+    padding: 10px;
+    margin: 20px;
+}
+
 
 p, h1, h2{
     text-align: center;
@@ -90,9 +119,7 @@ div{
 }
 
 .biography{
-    float: right;
-    padding-right: 100px;
-    padding-top: 60px;
+    padding: 30px;
     margin: 40px;
 }
 
@@ -146,6 +173,12 @@ ol a:hover{
 
 .more-album{
     text-align: left;
+    padding: 10px;
+}
+
+.more-album a:hover{
+    color: coral;
+    font-size: 25px;
 }
 
 ol{
