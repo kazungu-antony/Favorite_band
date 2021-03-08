@@ -18,6 +18,7 @@ $ git clone https://github.com/kazungu-antony/Favorite_band
 ### Usage
 * Just for entertainment and creating awareness of the band
 * Get to explore
+* Artist exposure platform
 ### Technologies Used
 1. HTML
 2. CSS
